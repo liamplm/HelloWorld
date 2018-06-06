@@ -1,4 +1,4 @@
-print("Hello,I am liamplm1382 !!!")
+print("Hello")
 
 while True:
     print("Hello World !!!")
